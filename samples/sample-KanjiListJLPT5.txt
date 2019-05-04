@@ -1,0 +1,494 @@
+/Users/nickramkissoon/Desktop/Python/KanjiList/sample.txt
+
+JLPT Level: 5
+
+日本: Lines: 1, 3
+    Meanings: 'Japan'
+    Reading: にほん
+
+----------------------------------------------------------------------------------------------------
+日本国: Lines: 3
+    Meanings: 'Japan'
+    Reading: にほんこく
+
+----------------------------------------------------------------------------------------------------
+日本列島: Lines: 4
+    Meanings: 'the Japanese islands'
+    Reading: にほんれっとう
+
+----------------------------------------------------------------------------------------------------
+北海道: Lines: 4
+    Meanings: 'Hokkaido (island, prefectural-level administrative unit)'
+    Reading: ほっかいどう
+
+----------------------------------------------------------------------------------------------------
+本州: Lines: 4
+    Meanings: 'Honshū (largest of the four main islands of Japan)', 'Honshu'
+    Reading: ほんしゅう
+
+----------------------------------------------------------------------------------------------------
+四国: Lines: 4
+    Meanings: 'Shikoku (smallest of the four main islands of Japan)'
+    Reading: しこく
+
+----------------------------------------------------------------------------------------------------
+九州: Lines: 4
+    Meanings: 'Kyushu (southernmost of the four main islands of Japan)'
+    Reading: きゅうしゅう
+
+----------------------------------------------------------------------------------------------------
+主要四島: Lines: 4
+    主要
+    Meanings: 'chief', 'main', 'principal', 'major'
+    Reading: しゅよう
+
+    四
+    Meanings: 'four'
+    Onyomi: 'シ'
+    Kunyomi: 'よ', 'よ.つ', 'よっ.つ', 'よん'
+
+    島
+    Meanings: 'island'
+    Onyomi: 'トウ'
+    Kunyomi: 'しま'
+
+----------------------------------------------------------------------------------------------------
+付随: Lines: 4
+    Meanings: 'being incident to', 'being accompanied by', 'being collateral with', 'being attached to'
+    Reading: ふずい
+
+----------------------------------------------------------------------------------------------------
+島: Lines: 4
+    Meanings: 'island'
+    Onyomi: 'トウ'
+    Kunyomi: 'しま'
+
+----------------------------------------------------------------------------------------------------
+南西諸島: Lines: 5
+    Meanings: 'Nansei Islands', 'Ryukyu Islands'
+    Reading: なんせいしょとう
+
+----------------------------------------------------------------------------------------------------
+伊豆諸島: Lines: 5
+    伊
+    Meanings: 'Italy', 'that one'
+    Onyomi: 'イ'
+    Kunyomi: 'かれ'
+
+    豆
+    Meanings: 'beans', 'pea', 'midget'
+    Onyomi: 'トウ', 'ズ'
+    Kunyomi: 'まめ', 'まめ-'
+
+    諸島
+    Meanings: 'archipelago', 'group of islands'
+    Reading: しょとう
+
+----------------------------------------------------------------------------------------------------
+小笠原諸島: Lines: 5
+    小
+    Meanings: 'little', 'small'
+    Onyomi: 'ショウ'
+    Kunyomi: 'ちい.さい', 'こ-', 'お-', 'さ-'
+
+    笠
+    Meanings: 'bamboo hat', "one's influence"
+    Onyomi: 'リュウ'
+    Kunyomi: 'かさ'
+
+    原
+    Meanings: 'meadow', 'original', 'primitive', 'field', 'plain', 'prairie', 'tundra', 'wilderness'
+    Onyomi: 'ゲン'
+    Kunyomi: 'はら'
+
+    諸島
+    Meanings: 'archipelago', 'group of islands'
+    Reading: しょとう
+
+----------------------------------------------------------------------------------------------------
+東: Lines: 5
+    Meanings: 'east'
+    Onyomi: 'トウ'
+    Kunyomi: 'ひがし'
+
+----------------------------------------------------------------------------------------------------
+島国: Lines: 5
+    Meanings: 'island country'
+    Reading: しまぐに
+
+----------------------------------------------------------------------------------------------------
+議会制民主主義国家: Lines: 5
+    議会制民主主義
+    Meanings: 'parliamentary democracy'
+    Reading: ぎかいせいみんしゅしゅぎ
+
+    国家
+    Meanings: 'state', 'country', 'nation'
+    Reading: こっか
+
+----------------------------------------------------------------------------------------------------
+首都: Lines: 5
+    Meanings: 'capital city', 'metropolis'
+    Reading: しゅと
+
+----------------------------------------------------------------------------------------------------
+東京都: Lines: 5
+    Meanings: 'Tokyo Metropolis', 'Tokyo metropolitan area'
+    Reading: とうきょうと
+
+----------------------------------------------------------------------------------------------------
+気候: Lines: 7
+    Meanings: 'climate'
+    Reading: きこう
+
+----------------------------------------------------------------------------------------------------
+四季: Lines: 7
+    Meanings: 'four seasons'
+    Reading: しき
+
+----------------------------------------------------------------------------------------------------
+変化: Lines: 7
+    Meanings: 'shapeshifting (of an animal or spirit)', 'goblin', 'ghost', 'apparition', 'bugbear'
+    Reading: へんげ
+
+----------------------------------------------------------------------------------------------------
+富: Lines: 7
+    Meanings: 'wealth', 'enrich', 'abundant'
+    Onyomi: 'フ', 'フウ'
+    Kunyomi: 'と.む', 'とみ'
+
+----------------------------------------------------------------------------------------------------
+国土: Lines: 7
+    Meanings: 'country', 'territory', 'domain', 'realm'
+    Reading: こくど
+
+----------------------------------------------------------------------------------------------------
+多: Lines: 7
+    Meanings: 'many', 'frequent', 'much'
+    Onyomi: 'タ'
+    Kunyomi: 'おお.い', 'まさ.に', 'まさ.る'
+
+----------------------------------------------------------------------------------------------------
+山地: Lines: 7
+    Meanings: 'mountainous district'
+    Reading: さんち
+
+----------------------------------------------------------------------------------------------------
+人口: Lines: 7
+    Meanings: 'population'
+    Reading: じんこう
+
+----------------------------------------------------------------------------------------------------
+平野部: Lines: 7
+    平野
+    Meanings: 'plain', 'open field'
+    Reading: へいや
+
+    部
+    Meanings: 'section', 'bureau', 'dept', 'class', 'copy', 'part', 'portion', 'counter for copies of a newspaper or magazine'
+    Onyomi: 'ブ'
+    Kunyomi: '-べ'
+
+----------------------------------------------------------------------------------------------------
+集中: Lines: 7
+    Meanings: 'concentration', 'focusing', 'convergence', 'centralization', 'integration', 'gathering together'
+    Reading: しゅうちゅう
+
+----------------------------------------------------------------------------------------------------
+国内: Lines: 7
+    Meanings: 'internal', 'domestic'
+    Reading: こくない
+
+----------------------------------------------------------------------------------------------------
+行政区分: Lines: 7
+    行政
+    Meanings: 'administration', 'governance', 'the authorities', 'authority'
+    Reading: ぎょうせい
+
+    区分
+    Meanings: 'division', 'section', 'demarcation', 'partition', 'segmentation', 'subdivision', '(traffic) lane', 'compartment', 'classification', 'sorting'
+    Reading: くぶん
+
+----------------------------------------------------------------------------------------------------
+都道府県: Lines: 7
+    Meanings: 'administrative divisions of Japan: Tokyo-to, Hokkai-do, Osaka-fu, Kyoto-fu and remaining prefectures'
+    Reading: とどうふけん
+
+----------------------------------------------------------------------------------------------------
+日本人: Lines: 8
+    Meanings: 'Japanese person', 'Japanese people'
+    Reading: にほんじん
+
+----------------------------------------------------------------------------------------------------
+琉球民族: Lines: 8
+    琉球
+    Meanings: 'Ryukyu'
+    Reading: りゅうきゅう
+
+    民族
+    Meanings: 'people', 'race', 'nation', 'ethnic group', 'ethnos'
+    Reading: みんぞく
+
+----------------------------------------------------------------------------------------------------
+外国人系: Lines: 8
+    外国人
+    Meanings: 'foreigner', 'foreign citizen', 'foreign national', 'alien', 'non-Japanese'
+    Reading: がいこくじん
+
+    系
+    Meanings: 'lineage', 'system'
+    Onyomi: 'ケイ'
+    Kunyomi: 'N/A'
+
+----------------------------------------------------------------------------------------------------
+人: Lines: 8
+    Meanings: 'person'
+    Onyomi: 'ジン', 'ニン'
+    Kunyomi: 'ひと', '-り', '-と'
+
+----------------------------------------------------------------------------------------------------
+居住: Lines: 8
+    Meanings: 'residence', 'abode', 'dwelling'
+    Reading: きょじゅう
+
+----------------------------------------------------------------------------------------------------
+事実上: Lines: 8
+    Meanings: 'as a matter of fact', 'actually', 'effectively', 'in reality', 'in effect'
+    Reading: じじつじょう
+
+----------------------------------------------------------------------------------------------------
+公用語: Lines: 8
+    Meanings: 'official language'
+    Reading: こうようご
+
+----------------------------------------------------------------------------------------------------
+日本語: Lines: 8
+    Meanings: 'Japanese (language)'
+    Reading: にほんご
+
+----------------------------------------------------------------------------------------------------
+使用: Lines: 8
+    Meanings: 'use', 'application', 'employment', 'utilization', 'utilisation'
+    Reading: しよう
+
+----------------------------------------------------------------------------------------------------
+内政: Lines: 10
+    Meanings: 'domestic affairs', 'internal administration'
+    Reading: ないせい
+
+----------------------------------------------------------------------------------------------------
+明治維新: Lines: 10
+    Meanings: 'Meiji Restoration'
+    Reading: めいじいしん
+
+----------------------------------------------------------------------------------------------------
+経: Lines: 10
+    Meanings: 'sutra', 'longitude', 'pass thru', 'expire', 'warp'
+    Onyomi: 'ケイ', 'キョウ', 'キン'
+    Kunyomi: 'へ.る', 'た.つ', 'たていと', 'はか.る', 'のり'
+
+----------------------------------------------------------------------------------------------------
+立憲国家: Lines: 10
+    立憲
+    Meanings: 'constitutionalism'
+    Reading: りっけん
+
+    国家
+    Meanings: 'state', 'country', 'nation'
+    Reading: こっか
+
+----------------------------------------------------------------------------------------------------
+第二次世界大戦後: Lines: 10
+    第二次世界大戦
+    Meanings: 'Second World War', 'World War II', 'WWII', 'WW2'
+    Reading: だいにじせかいたいせん
+
+    後
+    Meanings: 'behind', 'back', 'later'
+    Onyomi: 'ゴ', 'コウ'
+    Kunyomi: 'のち', 'うし.ろ', 'うしろ', 'あと', 'おく.れる'
+
+----------------------------------------------------------------------------------------------------
+年: Lines: 10, 13
+    Meanings: 'year', 'counter for years'
+    Onyomi: 'ネン'
+    Kunyomi: 'とし'
+
+----------------------------------------------------------------------------------------------------
+現行: Lines: 10
+    Meanings: 'present', 'current', 'in operation'
+    Reading: げんこう
+
+----------------------------------------------------------------------------------------------------
+日本国憲法: Lines: 10
+    Meanings: 'constitution of Japan', 'Japanese constitution'
+    Reading: にほんこくけんぽう
+
+----------------------------------------------------------------------------------------------------
+施行: Lines: 10
+    Meanings: 'execution', 'enforcing', 'carrying out'
+    Reading: しこう
+
+----------------------------------------------------------------------------------------------------
+年代: Lines: 11
+    Meanings: 'age', 'era', 'period', 'date'
+    Reading: ねんだい
+
+----------------------------------------------------------------------------------------------------
+起: Lines: 11
+    Meanings: 'rouse', 'wake up', 'get up'
+    Onyomi: 'キ'
+    Kunyomi: 'お.きる', 'お.こる', 'お.こす', 'おこ.す', 'た.つ'
+
+----------------------------------------------------------------------------------------------------
+太平洋戦争: Lines: 11
+    Meanings: 'Pacific War (1941-1945)'
+    Reading: たいへいようせんそう
+
+----------------------------------------------------------------------------------------------------
+復興: Lines: 11
+    Meanings: 'revival', 'renaissance', 'reconstruction', 'restoration'
+    Reading: ふっこう
+
+----------------------------------------------------------------------------------------------------
+遂: Lines: 11
+    Meanings: 'consummate', 'accomplish', 'attain', 'commit (suicide)'
+    Onyomi: 'スイ'
+    Kunyomi: 'と.げる', 'つい.に'
+
+----------------------------------------------------------------------------------------------------
+高度経済成長: Lines: 11
+    Meanings: 'rapid economic growth (esp. that of Japan in the post-WWII period)'
+    Reading: こうどけいざいせいちょう
+
+----------------------------------------------------------------------------------------------------
+工業化: Lines: 11
+    Meanings: 'industrialization', 'industrialisation'
+    Reading: こうぎょうか
+
+----------------------------------------------------------------------------------------------------
+加速: Lines: 11
+    Meanings: 'acceleration', 'speeding up'
+    Reading: かそく
+
+----------------------------------------------------------------------------------------------------
+科学技術立国: Lines: 12
+    科学技術
+    Meanings: 'science and technology'
+    Reading: かがくぎじゅつ
+
+    立国
+    Meanings: 'founding of a nation'
+    Reading: りっこく
+
+----------------------------------------------------------------------------------------------------
+推進: Lines: 12
+    Meanings: 'propulsion', 'drive'
+    Reading: すいしん
+
+----------------------------------------------------------------------------------------------------
+結果経済大国: Lines: 12
+    結果
+    Meanings: 'result', 'consequence', 'outcome', 'effect'
+    Reading: けっか
+
+    経済大国
+    Meanings: 'economic power'
+    Reading: けいざいたいこく
+
+----------------------------------------------------------------------------------------------------
+年代末: Lines: 12
+    年代
+    Meanings: 'age', 'era', 'period', 'date'
+    Reading: ねんだい
+
+    末
+    Meanings: 'end', 'close', 'tip', 'powder', 'posterity'
+    Onyomi: 'マツ', 'バツ'
+    Kunyomi: 'すえ'
+
+----------------------------------------------------------------------------------------------------
+崩壊後: Lines: 12
+    崩壊
+    Meanings: 'collapse', 'crumbling', 'breaking down', 'caving in'
+    Reading: ほうかい
+
+    後
+    Meanings: 'behind', 'back', 'later'
+    Onyomi: 'ゴ', 'コウ'
+    Kunyomi: 'のち', 'うし.ろ', 'うしろ', 'あと', 'おく.れる'
+
+----------------------------------------------------------------------------------------------------
+経済停滞期: Lines: 12
+    経済
+    Meanings: 'economics', 'business', 'finance', 'economy'
+    Reading: けいざい
+
+    停滞
+    Meanings: 'stagnation', 'tie-up', 'standstill', 'congestion', 'delay', 'accumulation', 'falling into arrears'
+    Reading: ていたい
+
+    期
+    Meanings: 'period', 'time', 'date', 'term'
+    Onyomi: 'キ', 'ゴ'
+    Kunyomi: 'N/A'
+
+----------------------------------------------------------------------------------------------------
+入: Lines: 12
+    Meanings: 'enter', 'insert'
+    Onyomi: 'ニュウ', 'ジュ'
+    Kunyomi: 'い.る', '-い.る', '-い.り', 'い.れる', '-い.れ', 'はい.る'
+
+----------------------------------------------------------------------------------------------------
+先進国: Lines: 13
+    Meanings: 'advanced (developed) country', 'advanced nations'
+    Reading: せんしんこく
+
+----------------------------------------------------------------------------------------------------
+一: Lines: 13
+    Meanings: 'one', 'one radical (no.1)'
+    Onyomi: 'イチ', 'イツ'
+    Kunyomi: 'ひと-', 'ひと.つ'
+
+----------------------------------------------------------------------------------------------------
+数: Lines: 13
+    Meanings: 'number', 'strength', 'fate', 'law', 'figures'
+    Onyomi: 'スウ', 'ス', 'サク', 'ソク', 'シュ'
+    Kunyomi: 'かず', 'かぞ.える', 'しばしば', 'せ.める', 'わずらわ.しい'
+
+----------------------------------------------------------------------------------------------------
+外交: Lines: 13
+    Meanings: 'diplomacy'
+    Reading: がいこう
+
+----------------------------------------------------------------------------------------------------
+国際連合: Lines: 13
+    Meanings: 'United Nations'
+    Reading: こくさいれんごう
+
+----------------------------------------------------------------------------------------------------
+加盟: Lines: 13
+    Meanings: 'joining (an association, agreement, etc.)', 'participation', 'affiliation', 'accession'
+    Reading: かめい
+
+----------------------------------------------------------------------------------------------------
+国連中心主義: Lines: 13
+    国連
+    Meanings: 'United Nations', 'UN'
+    Reading: こくれん
+
+    中心
+    Meanings: 'center', 'centre', 'middle', 'heart', 'core', 'focus', 'pivot', 'emphasis', 'balance'
+    Reading: ちゅうしん
+
+    主義
+    Meanings: 'doctrine', 'rule', 'principle', '-ism'
+    Reading: しゅぎ
+
+----------------------------------------------------------------------------------------------------
+採: Lines: 13
+    Meanings: 'pick', 'take', 'fetch', 'take up'
+    Onyomi: 'サイ'
+    Kunyomi: 'と.る'
+
+----------------------------------------------------------------------------------------------------
