@@ -18,7 +18,7 @@ the output text [(see samples)](samples), or the user can copy text onto their c
 program, and the output text will then be copied onto the clipboard.
 
 ## Output Preferences
-####JLPT
+### JLPT
 The user will be prompted to indicate what JLPT level will be used to 
 filter out kanji words. Kanji are ranked from levels 1 through 5 depending 
 on their frequency and how early one is expected to know it. The higher the 
@@ -31,7 +31,7 @@ are not ranked by the JLPT system.
 
 [For a detailed explanation for how JLPT filtering works.](docs/JLPTalgorithm.md)
 
-####Other Kanji Information
+### Other Kanji Information
 
 The user has the ability to change what information will be including 
 in the final output. The user can choose to include/not include: meainings,
@@ -39,7 +39,7 @@ readings, nanori, frequency, and JLPT. The default is set so that only
 meanings and readings will be outputted. 
 
 
-##License Information
+## License Information
 This program would not be possible without the JMdict and KANJIDIC projects as 
 all data in the json dictionaries of this project is extracted and adapted from them.
 Licensing information regarding the JMdict and KANJIDIC projects can 

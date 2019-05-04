@@ -1,4 +1,4 @@
-#Break Up Compound Algorithm
+# Break Up Compound Algorithm
 
 In general, kanji words are easy to read and differentiate from
 other parts of text because they are separated by kana, punctuation, etc.
@@ -15,7 +15,7 @@ that make smaller words so: 国民、健康、保険料、過誤、還付、通�
 In order to program this "intuition" to break up compounds in such a way,
 two methods are used.
 
-##Method 1
+## Method 1
 We start with string of characters that make up the compound.
 
 国民健康保険料過誤還付通知書
@@ -38,11 +38,11 @@ we have:
 
 国民、健康、保険料、過誤、還付、通知、書 as elements in the array
 
-##Method 2
+## Method 2
 Method 2 is the same recursive process as method 1 except we
 drop the last character and then check for a match instead of the first.
 
-##Reasoning For Two Methods of Breaking Up A Compound
+## Reasoning For Two Methods of Breaking Up A Compound
 There are cases (especially where proper names make up a part of the 
 compound) where one method returns the correct "intuitive" 
 way to break up a compound and the other does not. Depending on the
@@ -52,7 +52,7 @@ would break it up). So it is best to have a compound be evaluated
 by both methods and implement a method to judge which method is probably 
 the correct one.
 
-##How to Judge "Correctness"
+## How to Judge "Correctness"
 In general, we can assume that a method that breaks up a compound
 into less sub-compounds is preferred because less sub-compounds means
 the method was able to break up the compound into larger cohesive units.

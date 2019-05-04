@@ -1,4 +1,4 @@
-#JLPT Algorithm 
+# JLPT Algorithm 
 
 In order to filter words by their JLPT level, we need to find the JLPT 
 levels of all individual kanji that make up a word and create a function 
