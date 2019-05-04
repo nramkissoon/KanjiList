@@ -15,7 +15,8 @@ preferences for what the output text should include and indicate from
 where the program will get text input. Currently, the user can 
 read in a text file and output a text file in the same directory containing 
 the output text [(see samples)](samples), or the user can copy text onto their clipboard, run the 
-program, and the output text will then be copied onto the clipboard.
+program, and the output text will then be copied onto the clipboard and 
+outputted to the terminal.
 
 ## Output Preferences
 ### JLPT

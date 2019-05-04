@@ -72,6 +72,7 @@ def main():
                 output.create_output_lines()
                 pyperclip.copy(output.output_lines)
                 print('\nCopied KanjiList to clipboard.')
+                print(output.output_lines)
             key = input("\nPress any key to continue creating KanjiLists or press 'q' to quit: ")
             if key == 'q':
                 print('\nGoodbye.')
