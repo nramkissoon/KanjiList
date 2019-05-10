@@ -3,8 +3,9 @@
 KanjiList is a command line program meant to read Japanese text as an input and 
 output a list of kanji words that appear in the input text along with 
 their respective meanings, readings, etc. The data for words comes from 
-the [JMdict project](http://www.edrdg.org/jmdict/edict_doc.html) and 
-the [KANJIDIC Project](http://www.edrdg.org/wiki/index.php/KANJIDIC_Project).
+the [JMdict Project](http://www.edrdg.org/jmdict/edict_doc.html), 
+the [KANJIDIC Project](http://www.edrdg.org/wiki/index.php/KANJIDIC_Project), 
+and the [JMnedict Project](http://www.edrdg.org/enamdict/enamdict_doc.html).
 
 The intended users of this program are Japanese language learners that are barred 
 from reading Japanese text such as news articles because of a lack in kanji skills.
@@ -41,7 +42,7 @@ meanings and readings will be outputted.
 
 
 ## License Information
-This program would not be possible without the JMdict and KANJIDIC projects as 
+This program would not be possible without the JMdict, JMnedict, and KANJIDIC projects as 
 all data in the json dictionaries of this project is extracted and adapted from them.
 Licensing information regarding the JMdict and KANJIDIC projects can 
 be found [here](http://www.edrdg.org/edrdg/licence.html).
